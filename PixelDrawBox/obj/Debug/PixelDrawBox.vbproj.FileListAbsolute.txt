@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\bin\Debug\PixelDrawBox.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\bin\Debug\PixelDrawBox.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\bin\Debug\PixelDrawBox.xml
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.xml
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBox\obj\Debug\PixelDrawBox.pdb

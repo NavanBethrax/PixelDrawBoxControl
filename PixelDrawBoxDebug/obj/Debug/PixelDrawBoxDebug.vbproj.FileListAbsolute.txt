@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBoxDebug.exe.config
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBoxDebug.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBoxDebug.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBoxDebug.xml
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBox.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBox.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\bin\Debug\PixelDrawBox.xml
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.exe
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.xml
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\PixelDrawBox\PixelDrawBoxDebug\obj\Debug\PixelDrawBoxDebug.pdb
